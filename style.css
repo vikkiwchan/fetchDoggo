@@ -1,0 +1,27 @@
+#container {
+    line-height: 30px;
+}
+
+#container span {
+    color: red;
+}
+
+#button-container {
+    text-align: center;
+    margin: 10px;
+}
+
+.doggoImg {
+    height: 300px;
+}
+
+#dog-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#quote {
+    display: flex;
+    justify-content: center;
+}
